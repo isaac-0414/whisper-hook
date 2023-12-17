@@ -20,7 +20,8 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Try Whisper
+
+## Try Whisper
 
 go to [http://localhost:3000/whisper](http://localhost:3000/whisper) to try whisper on a web app, corresponding code is in /app/whisper/page.js
 
